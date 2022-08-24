@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="header">
+      <a href="https://www.codermerlin.com/users/jakob-mcpherson/Digital%20Portfolio/aboutme.html" class="link">About Me</a>
+      <a href="https://www.codermerlin.com/users/jakob-mcpherson/Digital%20Portfolio/classes.html" class="link">Classes</a>
+    </div>
+    
+    <h1>Jakob McPherson's Digital Portfolio</h1>
+    <p>My digital portfolio is important to me beacuse it lets me see all my projects throughout my Computer Science classes at AHS. With my digital portfolio, I can study my growth over the year, seeing how much I've learned over the years. Also, I can present my projects to potential employers in a digital format. Finally, I can demonstrate my abilities in HTML, CSS, and JavaScript through the design and interactivity of my website.</p>
+  </body>
+</html>
