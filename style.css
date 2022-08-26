@@ -9,6 +9,17 @@
     text-align: center;
 }
 
+#contents {
+    margin-top:4vh;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+
+#apacontents {
+    margin-top:30vh;
+    font-family:"Times New Roman", serif;
+}
+
 .link {
     margin-left: 5vw;
     margin-right: 5vw;
@@ -28,13 +39,30 @@ h1,h2,h3,h4,h5,h6,p,ol,ul {
     color:lightblue;
 }
 
+h1,h2,h3,h4,h5,h6 {
+    font-family: Georgia, serif;
+}
+
+p,ol,ul {
+    font-family: 'Courier New', monospace;
+}
+
 .inline {
     display:inline;
 }
 
-.apa {
+.apacitation {
     padding-left: 36px;
     text-indent:-36px;
+}
+
+.apatitle {
+    text-align: center;
+    font-weight:bold;
+}
+
+.apaheader {
+    text-align:center;
 }
 
 .githublink {
