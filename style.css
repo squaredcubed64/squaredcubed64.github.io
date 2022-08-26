@@ -16,8 +16,14 @@
 }
 
 #apacontents {
-    margin-top:30vh;
+    margin-left:4vw;
+    margin-right:4vw;
     font-family:"Times New Roman", serif;
+}
+
+#apatitlepage {
+    margin-top:40vh;
+    margin-bottom:40vh;
 }
 
 .link {
@@ -39,11 +45,11 @@ h1,h2,h3,h4,h5,h6,p,ol,ul {
     color:lightblue;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1.contents,h2.contents,h3.contents,h4.contents,h5.contents,h6.contents {
     font-family: Georgia, serif;
 }
 
-p,ol,ul {
+p.contents, ol.contents, ul.contents {
     font-family: 'Courier New', monospace;
 }
 
@@ -63,6 +69,10 @@ p,ol,ul {
 
 .apaheader {
     text-align:center;
+}
+
+.topmargin {
+    margin-top:10vh;
 }
 
 .githublink {
