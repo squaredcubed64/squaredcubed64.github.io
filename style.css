@@ -61,6 +61,10 @@ h1,h2,h3,h4,h5,h6,p,ol,ul {
     color:lightblue;
 }
 
+a {
+    display:inline;
+}
+
 #contents h1, #contents h2, #contents h3, #contents h4, #contents h5, #contents h6 {
     font-family: Georgia, serif;
 }
@@ -71,6 +75,10 @@ h1,h2,h3,h4,h5,h6,p,ol,ul {
 
 .inline {
     display:inline;
+}
+
+.block {
+    display:block;
 }
 
 .apacitation {
