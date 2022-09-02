@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../style.css"/>
+    <title>CS-II</title>
+  </head>
+  <body>
+    <div id="contents">
+      <a href="../index.html" class="link">Home</a>
+      <a href="isp2022.html" class="link">ISP 2022</a>
+    </div>
+
+    <div id="index">
+      <h1>CS-II</h1>
+      <p></p>
+    </div>
+  </body>
+</html>

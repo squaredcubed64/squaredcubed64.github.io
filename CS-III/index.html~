@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../style.css"/>
+    <title>CS-III</title>
+  </head>
+  <body>
+    <div id="header">
+      <a href="../index.html" class="link">Home</a>
+      <a href="Essays/fingerprints.html" class="link">Fingerprints</a>
+      <a href="Essays/AI Sentience.html" class="link">AI Sentience</a>
+    </div>
+
+    <div id="contents">
+      <h1>CS-III</h1>
+      <p>August 2022 - May 2023 : Advanced Computer Science III</p>
+    </div>
+  </body>
+</html>

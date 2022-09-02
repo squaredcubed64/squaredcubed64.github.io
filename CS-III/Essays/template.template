@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css" />
+    <title>Title</title>
+  </head>
+  <body>
+    <div id="header">
+      <a href="index.html" class="link">Back to Home</a>
+    </div>
+
+    <div id="apacontents">
+      <div id="apatitlepage">
+	<p class="apatitle">Title</p>
+	<p class="apaheader">Jakob McPherson</p>
+	<p class="apaheader">STEAM Center, Allen High School</p>
+	<p class="apaheader">TA2S3A: Computer Science III Pre-AP/IB</p>
+	<p class="apaheader">Mr. Ben-Yaakov</p>
+	<p class="apaheader">Month XX, 2022</p>
+      </div>
+      
+      <p>Lorem Ipsum Dolor</p>
+
+      <h2>Works Cited</h2>
+      <p class="apa">Citation</p>
+    </div>
+  </body>
+</html>

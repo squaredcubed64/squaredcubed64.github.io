@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../../style.css"/>
+    <title>AI Sentience</title>
+  </head>
+  <body>
+    <div id="header">
+      <a href="../../index.html" class="link">Home</a>
+      <a href="../index.html" class="link">CS-III</a>
+    </div>
+
+    <div id="apacontents">
+      <div id="apatitlepage">
+	<p class="apatitle">AI Sentience</p>
+	<p class="apaheader">Jakob McPherson</p>
+	<p class="apaheader">STEAM Center, Allen High School</p>
+	<p class="apaheader">TA2S3A: Computer Science III Pre-AP/IB</p>
+	<p class="apaheader">Mr. Ben-Yaakov</p>
+	<p class="apaheader">September 2, 2022</p>
+      </div>
+
+      <h2>Introduction</h2>
+      <p>As expanding computational resources and advancing techniques allow for continually improving artificial intelligence, many observers, even sometimes the engineers behind the AIs themselves, have begun to suspect that artificial intelligence is now sentient, or able to form subjective experiences. From a scientific point of view, this is unlikely, but what would be the result of a sentient AI. This essay will explore the relation between machines and sentience as well as the implications of sentient AI.</p>
+
+      <h2>Sentience</h2>
+      <p>Sentience is “the capacity to experience feelings and sensations” (“Sentience,” 2022). Although most humans, as sentient beings, have an intrinsic understanding of what sentience means, modern science has no way of empirically proving an entity’s sentience or lackthereof. This problem has been known to philosophers for centuries, as proven by the ancient thought experiment of the “philosophical zombie.” A philosophical zombie is a hypothetical clone of a human being, but without sentience. From an onlooker’s perspective, the zombie and the original are completely indistinguishable. Because the zombie is a perfect clone of the original, any test done in an attempt to distinguish between the two would have the same result on both. Therefore, it is impossible to determine which of the entities is the sentient human and which is the zombie clone without being the sentient human yourself.</p>
+      <p>Sentience is “the capacity to experience feelings and sensations” (“Sentience,” 2022). Although most humans, as sentient beings, have an intrinsic understanding of what sentience means, modern science has no way of empirically proving an entity’s sentience or lackthereof. This problem has been known to philosophers for centuries, as proven by the ancient thought experiment of the “philosophical zombie.” A philosophical zombie is a hypothetical clone of a human being, but without sentience. From an onlooker’s perspective, the zombie and the original are completely indistinguishable. Because the zombie is a perfect clone of the original, any test done in an attempt to distinguish between the two would have the same result on both. Therefore, it is impossible to determine which of the entities is the sentient human and which is the zombie clone without being the sentient human yourself.</p>
+      <p>Similarly, although we can assume that mere computation devices such as neural networks (NNs) are not sentient, we cannot know for sure. However, saying that we can never know if an AI is sentient makes the idea of sentient AI meaningless. If we can never know what sentient AI is, then we have no way of knowing what it would do, even if it actually existed. However, this conclusion defeats the purpose of this entire discussion. Therefore, we will henceforth assume that there is some way to determine if an AI is sentient. That is, we will assume that sentience is a result of some measurable physical mechanism within all sentient entities. Then, our question is “what would be the result of the existence of a verifiably sentient AI?”</p>
+
+      <h2>The Brain and AI</h2>
+      <p>If sentience is verifiable, then it likely has something to do with the anatomy of the human brain. We only know that we are sentient and that the human brain controls thinking, meaning it very likely also controls sentience. Therefore, a verifiably sentient AI would need to have this mystery quality that determines sentience in common with the human brain. Considering that sentience is the ability to experience feelings, this mystery quality probably has a lot to do with the neural network in our own brains because our brains create and process emotion. Therefore, sentience is a result of the complex and unpredictable interactions between neurons in the brain.</p>
+      <p>The specifics of what is believed to constitute sentience in humans is beyond the scope of this essay, but it is unlikely that this quality of the brain is shared by AI. Although NNs have historically been compared to the brain, as neuroscience and artificial intelligence have matured as fields, the differences between the brain and NNs have become increasingly substantial. For example, we now know that an individual neuron of the brain has much more computational power than a single neuron in a NN (Whitten, 2021). Those knowledgeable in both AI research and neurobiology now agree that NNs and brains operate in fundamentally different ways. Thus, it is difficult to see why NNs would have sentience like human brains, even if they can mimic human behavior exceptionally well in some areas (DALL·E 2, 2022).</p>
+      <p>This leads us to the conclusion that, if a sentient AI were to exist, its structure would necessarily be radically different from the NNs of today. Additionally, considering the incredible complexity in the human brain, sentience is probably extremely difficult to reproduce. Therefore, a sentient AI would more likely have sentience due to a conscious design choice than an accident. This leads us to our next intriguing question: Why would an AI be designed specifically to be sentient?</p>
+
+      <h2>The Future</h2>
+      <p>From our line of reasoning so far, we have determined that a verifiably sentient AI would likely be an intentional creation. So what would drive someone to create a verifiably sentient AI? There are a few possibilities:</p>
+      <ol>
+	<li>The creator(s) has simply made the AI because of scientific curiosity.</li>
+	<li>Sentience allows for better performance in some tasks.</li>
+	<li>The creator(s) is trying to create digital immortality by injecting the personality of a living human into a machine.</li>
+      </ol>
+      <p>Each of these possibilities have different implications, from insignificant to utopian to apocalyptic. We’ll examine each of these in detail.</p>
+
+      <h3>Possibility 1: Scientific Curiosity</h3>
+      <p>The first possibility is the least consequential of the four, but arguably the most likely due to its vagueness. It is very possible that the first sentient AI will simply be a proof-of-concept for future endeavors. In this case, there are two possible outcomes: either the creation of sentient AI is prohibited for moral or pragmatic reasons, or someone else uses the original proof of concept for one of the other possibilities.</p>
+
+      <h3>Possibility 2: Sentience Improves Performance</h3>
+      <p>More interestingly, sentience could be sought after to improve an AIs performance in a task it is made to do. This may seem outlandish at first, but consider that a process similar to this likely occurred during the evolution of sentience in living creatures. One theory of the evolution of sentience is that sentience allowed living creatures to more efficiently process information (Graziano, 2016). An organism could have evolved the ability to experience the world subjectively as a survival tactic. For example,  pain is a part of the sentience experience of humans. It tells us when we are in contact with something dangerous and that we should avoid it. Because pain is so undesirable to us, we can better protect ourselves from heat, predators, sharp objects, and other dangers. Perhaps sentience is necessary to reap the benefits of feelings like pain.</p>
+      <p>In the same way, perhaps an AI could benefit from having sentience. The paradigm of modern NNs is the continual optimization of a single metric. To improve, an NN attempts to solve a problem, its performance is judged, then each of its parameters are updated to improve the network’s performance. This is extremely effective at solving some problems, but modern NNs run into the issue of lacking computational power. For extremely difficult problems, such as writing novels, NNs simply don’t have enough neurons to perform well. If an AI were given sentience, though, perhaps it could process information in a more efficient manner, similar to humans. Then, it may be able to perform creative tasks on a human level.</p>
+      <p>In this case, it would be up to governments and individuals to ensure that sentient AI contributed to humanity. The potential of AI that can perform most tasks at or above a human level is limitless. From solving mathematical conjectures to curing diseases, this would surely be among the most incredible inventions mankind has ever made. However, the negative potential is just as great. An AI with the power to perform complex tasks could prove disastrous if put in the wrong hands.</p>
+      <p>Given past precedent, however, it is reasonable to be hopeful that this technology would be used humanely. Until now, AI has contributed far more to humanity than it has taken away. Given that a sentient AI would be essentially impossible for a single bad actor to create, the first sentient AI will likely belong to a group of engineers working towards a positive common goal. If sentient AI continues to be managed well, humans will likely experience improvements in quality of life unimaginable to us today.</p>
+      
+      <h3>Possibility 3: Digital Immortality</h3>
+      <p>Perhaps the flashiest possibility, AI might be made sentient to accommodate digitized humans. With our current understanding of science, this seems extremely unlikely. The “soul” of a human seems to be permanently tied to the brain. However, if it were possible to “upload oneself into the matrix,” there would undoubtedly be waves of people interested in near-immortality (“Digital Immortality,” 2022).</p>
+      <p>Again, a sentient AI would likely be so complicated that it would require a massive team of researchers to create. So, we can reasonably hope that the possibility of digital immortality will be handled responsibly. The question is: would society accept such an unnatural concept?</p>
+      <p>For all of human existence, death has been an inevitability. Death is so ingrained into the psyche of humans that most view death as simply a part of life. So, the possibility of avoiding death would certainly spark massive controversy. Governments of the world, and perhaps even worldwide organizations such as the UN, could step in and completely ban sentient AI made for this purpose, seeing it as science going too far.</p>
+      <p>However, the more likely option is actually the complete opposite. Since the Industrial Revolution, new technologies that have revolutionized life have been met with backlash, but in the end, it is actually culture that changes to accommodate new innovations. Given the indescribable upside of immortality, within a couple of decades after uploading one’s mind to the digital world becomes possible, the act will be socially acceptable.</p>
+      <p>Digital immortality would be the biggest accomplishment in human history. It would mark the end of death and the beginning of a new era of human existence. With much of humanity living in the digital world, resources would be nearly infinite, thus rendering most conflicts between people obsolete. Humans would be able to live for hundreds, thousands, or even googols of years, free to pursue their own goals free of worry or fear.</p>
+
+      <h2>Conclusion</h2>
+      <p>Given the difficulty of predicting the future, especially in a subject as speculative as sentient AI, I don’t expect my predictions to be accurate. However, given our current understanding of artificial intelligence and sentience, a verifiably sentient AI would most likely bring about utopia for humans. The main concern for us is making sure that we don’t let a sentient AI fall into the hands of a malicious group. However, considering the track record of AI so far, the most likely outcome is that sentient AI is put to good use, which will create a utopia for humans.</p>
+
+      <h2>Works Cited</h2>
+      <p class="apa">Graziano, M. (2021, June 27). A new theory explains how consciousness evolved. The Atlantic. Retrieved September 1, 2022, from https://www.theatlantic.com/science/archive/2016/06/how-consciousness-evolved/485558/</p>
+      <p class="apa">OpenAI. (2022, April 14). Dall·E 2. OpenAI. Retrieved September 1, 2022, from https://openai.com/dall-e-2/</p>
+      <p class="apa">Whitten, A., & Quanta Magazine moderates comments to facilitate an informed, substantive. (2021, September 2). How computationally complex is a single neuron?</p>
+      <p class="apa">Quanta Magazine. Retrieved September 1, 2022, from https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/</p>
+      <p class="apa">Wikimedia Foundation. (2022, August 10). Digital Immortality. Wikipedia. Retrieved September 1, 2022, from https://en.wikipedia.org/wiki/Digital_immortality</p>
+      <p class="apa">Wikimedia Foundation. (2022, August 20). Sentience. Wikipedia. Retrieved September 1, 2022, from https://en.wikipedia.org/wiki/Sentience</p>
+      <p class="apa">Wikimedia Foundation. (2022, August 5). Philosophical zombie. Wikipedia. Retrieved September 1, 2022, from https://en.wikipedia.org/wiki/Philosophical_zombie</p>
+    </div>
+  </body>
+</html>

@@ -35,6 +35,7 @@
     margin-left:4vw;
     margin-right:4vw;
     font-family:"Times New Roman", serif;
+    font-size:12pt;
 }
 
 #apatitlepage {
@@ -71,6 +72,19 @@ a {
 
 #contents p, #contents ol, #contents ul {
     font-family: 'Courier New', monospace;
+}
+
+#apacontents h1, #apacontents h2, #apacontents h3, #apacontents h4, #apacontents h5, #apacontents h6 {
+    font-size: 12pt;
+}
+
+#apacontents h2 {
+    font-weight: bold;
+}
+
+#apacontents h3 {
+    font-weight: bold;
+    font-style: italic;
 }
 
 .inline {
