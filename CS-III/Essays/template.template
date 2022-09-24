@@ -7,7 +7,7 @@
   </head>
   <body>
     <div id="header">
-      <a href="index.html" class="link">Back to Home</a>
+      <a href="index.html" class="ha">Back to Home</a>
     </div>
 
     <div id="apacontents">
@@ -20,10 +20,10 @@
 	<p class="apaheader">Month XX, 2022</p>
       </div>
       
-      <p>Lorem Ipsum Dolor</p>
+      <p class="apap">Lorem Ipsum Dolor</p>
 
-      <h2>Works Cited</h2>
-      <p class="apa">Citation</p>
+      <h2 class="apah2">Works Cited</h2>
+      <p class="apacitation">Citation</p>
     </div>
   </body>
 </html>

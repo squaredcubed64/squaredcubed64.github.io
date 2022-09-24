@@ -1,19 +1,39 @@
 #header {
+    width:100%;
+    height:6%;
+    text-align:center;
+}
+
+#pinkheader {
     background-color:lightpink;
     width:100%;
-    height:10%;
-    border:3px solid green;
-    font:Helvetica;
-    font-weight:bold;
-    font-size:24pt;
+    height:3%;
+    border:1px solid red;
+    text-align:center;
+}
+
+.ha /*header a*/ {
+    font-family: Georgia, serif;
+    font-size: 16pt;
     text-align: center;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+.hh /*header header*/ {
+    font-family: DejaVu Sans Mono, monospace;
+    font-size:32pt;
+    text-align:center;
+    font-weight:bold;
 }
 
 #contents {
     margin-top:4vh;
     padding-bottom:4vh;
-    margin-left: 4vw;
-    margin-right: 4vw;
+    padding-left:20vw;
+    padding-right:20vw;
+    max-width:1000px;
+    margin:auto;
 }
 
 #index {
@@ -21,35 +41,26 @@
     text-align:center;
 }
 
-#index h1 {
+.ih1 /*index h1*/ {
     margin-top:30vh;
+    margin-bottom:30vh;
     font-size:48pt;
 }
 
-#index p {
+.ip /*index p*/ {
     font-size:18pt;
 }
 
 #apacontents {
     padding-bottom:4vh;
-    margin-left:4vw;
-    margin-right:4vw;
     font-family:"Times New Roman", serif;
-    font-size:12pt;
+    padding-left:20vw;
+    padding-right:20vw;
 }
 
 #apatitlepage {
     margin-top:40vh;
     margin-bottom:40vh;
-}
-
-.link {
-    margin-left: 5vw;
-    margin-right: 5vw;
-}
-
-.textlink {
-    color:lightblue;
 }
 
 html {
@@ -66,23 +77,47 @@ a {
     display:inline;
 }
 
-#contents h1, #contents h2, #contents h3, #contents h4, #contents h5, #contents h6 {
+.ca {
+    color:lightblue;
+}
+
+.ch /*contents header*/ {
     font-family: Georgia, serif;
 }
 
-#contents p, #contents ol, #contents ul {
+.cp, .col, .cul /*contents p, contents ol, contents ul*/ {
     font-family: 'Courier New', monospace;
 }
 
-#apacontents h1, #apacontents h2, #apacontents h3, #apacontents h4, #apacontents h5, #apacontents h6 {
-    font-size: 12pt;
+.ci, .apai /*contents image, apacontents image*/ {
+    max-width: 100%;
+    height: auto;
 }
 
-#apacontents h2 {
+.apap, .apaol, .apaul, .apah1, .apah2, .apah3, .apah4, .apah5, .apah6, .apacitation {
+    font-size: 12pt;
+    line-height: 2;
+    margin:0;
+}
+
+.apap {
+    text-indent: 50px;
+}
+
+.apaol, .apaul {
+
+}
+
+.apah1 {
+    text-align:center;
+    font-weigth:bold;
+}
+
+.apah2 {
     font-weight: bold;
 }
 
-#apacontents h3 {
+.apah3 {
     font-weight: bold;
     font-style: italic;
 }
@@ -118,6 +153,10 @@ a {
 }
 
 .githublink {
-    position:absolute;
-    bottom: 5vh;
+    margin-top:5vh;
+    color:lightblue;
+}
+
+.topbreak {
+    margin-top:30vh;
 }
