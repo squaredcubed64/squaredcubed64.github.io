@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../../../style.css">
+    <title>Business Plan</title>
+  </head>
+  <body>
+    <div id="header">
+      <h1 class="hh">Jakob McPherson's Digital Portfolio</h1>
+      <div id="pinkheader">
+	<a href="../../../index.html" class="ha">Home</a>
+	<a href="../index.html" class="ha">CS-III</a>	
+      </div>
+    </div>
+
+    <div id="contents">
+      <h1 class="ch">Business Plan</h1>
+      <h2 class="ch">Identity</h2>
+      <p class="cp">A website with an AI creation tool that builds neural networks to play popular internet games.</p>
+      <h2 class="ch">Problem</h2>
+      <p class="cp">Modern AI can accomplish incredible feats such as detecting cancer in patients with DNA information, predicting what advertisements a user is most likely to click on, and generating images based on prompts. Most internet users understand the impressive and growing power of AI, but few understand how AI actually work.</p>
+      <h2 class="ch">Solution</h2>
+      <p class="cp">Our website will allow users to create their own AI by specifying their structure, tuning hyperparameters, and studying results through popular internet games. For example, a user could create a deep neural network to achieve a high score in Google's Dinosaur Game, using the distance to the nearest obstacle as input and clicks as output. As the network trains, the user will be able to see how the AI improves through the in-game score. The user can also experiment with different AI models (e.g. reinforcement learning and evolutionary) to see which is most effective.</p>
+      <h2 class="ch">Target Market</h2>
+      <p class="cp">Internet users who are interested in AI, but don't have enough free time to fully learn it</p>
+      <h2 class="ch">Competition</h2>
+      <ul class="cul">
+	<li>Online courses on AI (e.g. those on Coursera)</li>
+      	<li>YouTube videos explaining AI</li>
+	<li>Other websites that use animations, simulations, and/or games to explain AI</li>
+      </ul>
+      <h2 class="ch">Revenue Streams</h2>
+      <ul class="cul">
+	<li>Advertising on our website</li>
+      </ul>
+      <h2 class="ch">Marketing Activities</h2>
+      <ul class="cul">
+	<li>Advertising on other websites</li>
+	<li>Presence on social media</li>
+	  <ul class="cul">
+	    <li>YouTube videos showcasing our website</li>
+	    <li>Twitter posts explaining our goal of teaching people how AI works</li>
+	  </ul>
+      </ul>
+      <h2 class="ch">Expenses</h2>
+      <ul class="cul">
+	  <li>Cost of hosting a website</li>
+      </ul>
+      <h2 class="ch">Team and Key Roles</h2>
+      <ul class="cul">
+	<li>Jakob McPherson- Project manager</li>
+	<li>Future roles</li>
+	<ul class="cul">
+	  <li>UX Designer (website design)</li>
+	  <li>UI Designer (website design)</li>
+	  <li>Software developer (AI design)</li>
+	  <li>Social media manager</li>
+	</ul>
+      </ul>
+      <h2 class="ch">Milestones</h2>
+      <p class="cp">As the traffic on our website increases, we will have to increase the traffic capacity of our website.</p>
+      <p class="cp"><a href="https://docs.google.com/spreadsheets/d/1a3GEc4u1seaj2PJ1rGTal95PzuArGAbQj8avnVqEYZg/edit#gid=0">Link to Gantt Chart in Google Sheets</a></p>
+    </div>
+  </body>
+</html>
