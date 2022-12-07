@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../../style.css" />
+    <title>Decision Making</title>
+  </head>
+  <body>
+    <div id="header">
+      <h1 class="hh">Jakob McPherson's Digital Portfolio</h1>
+      <div id="pinkheader">
+	<a href="../../index.html" class="ha">Home</a>
+	<a href="../index.html" class="ha">CS-III</a>
+      </div>
+    </div>
+
+    <div id="apacontents">
+      <div id="apatitlepage">
+	<p class="apatitle">Decision Making</p>
+	<p class="apaheader">Jakob McPherson</p>
+	<p class="apaheader">STEAM Center, Allen High School</p>
+	<p class="apaheader">TA2S3A: Computer Science III Pre-AP/IB</p>
+	<p class="apaheader">Mr. Ben-Yaakov</p>
+	<p class="apaheader">December 7, 2022</p>
+      </div>
+
+      <h1 class="apah1">Decision Making</h1>
+      <p class="apap">Because logic and reason are highly valued in modern life, we delude ourselves into believing in the isolation between our decisions and emotions. However, through the lens of contemporary psychology, we can accept our irrational peculiarities to guard against their most dangerous effects. Destroying one's self-image as a perfectly rational entity allows for a richer understanding of one's own decisions.</p>
+      <p class="apap">In this essay, I will discuss five biases that may affect the decision-making process of my ISP team or me, as well as how I will overcome these biases to ensure the vital decisions relating to our ISP are maximally logical.</p>
+
+      <h2 class="apah2">Confirmation Bias</h2>
+      <p class="apap">Confirmation bias is the tendency for people to focus on pieces of information that align with their preexisting beliefs ("Cognitive biases and errors in decision making - Explained," n.d.). People exhibiting confirmation bias may find it difficult to question their ideas because they ignore evidence that contradicts them. For example, an economic libertarian may focus on markets that benefit from minimal government intervention while ignoring markets where government regulation is needed to protect consumers.</p>
+      <p class="apap">Confirmation bias may make it difficult for me to consider unfamiliar possibilities. For example, suppose I have the preexisting belief that a deep neural network (DNN) is the best machine learning structure to predict stock market behavior. In that case, I may ignore evidence that suggests a recurrent neural network (RNN) is superior.</p>
+      <p class="apap">To avoid confirmation bias, I will thoughtfully consider the pros and cons of each choice, write them down, and assign numerical weights to each. By explicitly weighing the pros and cons of each option, I can better consider all my choices, protecting against my subconscious tendency to overvalue the choice I already believe is best.</p>
+      
+      <h2 class="apah2">Anchoring Effect</h2>
+      <p class="apap">The anchoring effect is the tendency to focus excessively on an initial piece of information ("Cognitive biases and errors in decision making - Explained," n.d.). For example, a child who learns about the free market's failure to provide clean food to consumers in early 1900s America may advocate for increased government regulations throughout her life.</p>
+      <p class="apap">The anchoring effect can reduce my capacity to consider subsequent information. For example, suppose the first thing I learn about RNNs is that they are effective in natural language processing. In that case, I may not consider using other neural network structures to analyze the sentiment of sentences, even if future evidence suggests that a DNN is more effective.</p>
+      <p class="apap">To avoid the anchoring effect, I'll compile the pros and cons of each choice and present them in a random order to both of my teammates. Then, by listening to their opinions, I'll gain a perspective untainted by order of evidence.</p>
+      
+      <h2 class="apah2">Sunk Cost Fallacy</h2>
+      <p class="apap">The sunk cost fallacy is the tendency to prefer choices that one has already invested time and resources into ("Cognitive biases and errors in decision making - Explained," n.d.). People expressing confirmation bias can continue pursuing a suboptimal choice longer than they should because they use their effort to justify their past decision. For example, a college student three years into his bachelor's degree in a major he has no interest in may stick with his major simply because he doesn’t want to have wasted the past three years in time and tuition.</p>
+      <p class="apap">The sunk cost fallacy will make it difficult for me to try a new approach after wasting my time on a fruitless endeavor. For example, I may spend a week attempting to code a neural network in C++ even though using Python would be much more efficient.</p>
+      <p class="apap">To avoid the sunk cost fallacy, I'll ask my team members for input when I question one of my past decisions. Because my teammates are uninfluenced by the time I've invested, they can see past the costs I've already incurred and give an unbiased opinion on the best path forward.</p>
+      
+      <h2 class="apah2">Bandwagon Effect</h2>
+      <p class="apap">The bandwagon effect is the tendency to make choices based on other people's actions ("Cognitive biases and errors in decision making - Explained," n.d.). People under the bandwagon effect can make choices based on popularity rather than rationality. For example, many people in San Francisco became fans of the Golden State Warriors in 2016 solely because of the franchise's popularity.</p>
+      <p class="apap">Unlike most other fallacies, the bandwagon effect is exacerbated by outside opinions. I may be pressured to agree if my two teammates favor an idea. For example, if my teammates want to make a website before anything else, I may not sufficiently consider the possibility of coding a web scraper to gather stock market info first.</p>
+      <p class="apap">To avoid the bandwagon effect, we'll make big decisions separately before convening to discuss opinions. If we disagree, we avoid pressuring someone to follow the majority opinion. As a result, we can consider unpopular but valuable approaches.</p>
+      
+      <h2 class="apah2">Overconfidence Bias</h2>
+      <p class="apap">Overconfidence bias is the tendency for one to be overconfident in their predictions ("Cognitive biases and errors in decision making - Explained," n.d.). This can cause people to make risky, unsupported decisions. For example, a gambling addict may believe they can tell the color of the space a roulette ball will land in ahead of time. Because of this, they may end up betting more money than they can afford.</p>
+      <p class="apap">Overconfidence bias may fool me into believing I can predict all the problems I encounter. Thus, I may neglect to leave room in my schedule for unexpected issues.</p>
+      <p class="apap">To avoid overconfidence bias, I'll estimate the time each component of my project will take. Then, I'll ask my teammates how long each part will take and factor those opinions into my schedule. I'll always leave a few days of leeway in my plan to account for the uncertainty inherent in predictions.</p>
+      
+      <h1 class="apah1" id="apacitationheader">References</h1>
+      <p class="apacitation">Cognitive biases and errors in decision making - Explained. (n.d.). The Business Professor, LLC. https://thebusinessprofessor.com/en_US/management-leadership-organizational-behavior/common-biases-and-errors-in-decision-making</p>
+      <p class="apacitation">Economic man (Homo economicus): On the false assumption of perfect rationality. (n.d.). Effectiviology – Psychology and philosophy you can use. https://effectiviology.com/homo-economicus/</p>
+    </div>
+  </body>
+</html>
