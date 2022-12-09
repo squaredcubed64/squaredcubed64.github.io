@@ -16,8 +16,8 @@
     font-family: "Georgia, serif";
     font-size: 16pt;
     text-align: center;
-    margin-left: 5vw;
-    margin-right: 5vw;
+    margin-left: 3vw;
+    margin-right: 3vw;
 }
 
 .hh /*header header*/ {
@@ -102,6 +102,10 @@ a {
     font-size: 12pt;
     line-height: 2;
     margin:0;
+}
+
+#apacitationheader {
+    margin-top: 40vh;
 }
 
 .apap {

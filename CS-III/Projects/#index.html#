@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../../style.css">
+    <title>CS-III</title>
+  </head>
+  <body>
+    <div id="header">
+      <h1 class="hh">Jakob McPherson's Digital Portfolio</h1>
+      <div id="pinkheader">
+	<a href="../../index.html" class="ha">Home</a>
+	<a href="../index.html" class="ha">CS-III</a>
+      </div>
+    </div>
+
+    <div id="contents">
+      <h1 class="ch">ISP</h1>
+      <p class="cp">August 2022 - May 2023 : Advanced Computer Science III</p>
+    </div>
+  </body>
+</html>
