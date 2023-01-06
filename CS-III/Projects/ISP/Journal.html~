@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../../../style.css">
+    <title>ISP</title>
+  </head>
+  <body>
+    <div id="header">
+      <h1 class="hh">Jakob McPherson's Digital Portfolio</h1>
+      <div id="pinkheader">
+	<a href="../../../index.html" class="ha">Home</a>
+	<a href="../../index.html" class="ha">CS-III</a>
+	<a href="index.html" class="ha">ISP</a>
+      </div>
+    </div>
+
+    <div id="contents">
+      <h2 class="ch">(Software) Development Engineer</h2>
+      <p class="cp">Software engineers design and maintain software. This requires technical skills (e.g. knowledge of programming languages and data structures) and problem solving creativity. They are the most basic unit of a software development team because they are the ones creating software at the beginning of the process from idea to product. Software engineers tend to specialize in one or more areas, such as a programming language or operating system.</p>
+      <h2 class="ch">QA Engineer</h2>
+      <p class="cp">QA engineers make sure that software meets quality standards before it is released to the public. This involves actively looking for bugs and oversights. QA engineers must have a deep understanding of how a software works in order to see why it has certain issues. QA engineers work closely with software engineers to document and test the software along the software development process. QA engineers may also write code to automate software testing.</p>
+      <h2 class="ch">Project Manager</h2>
+      <p class="cp">Project managers lead the software development team. This involves communicating with shareholders and defining goals within time and budget restraints. Software engineers must be able to manage money effectively, correctly evaluate team members' performance, study their industry to keep up to date with new strategies, and organize team members from various departments.</p>
+      <h2 class="ch">Product Manager</h2>
+      <p class="cp">Like project managers, product managers also have a broad set of responsibilities. Product managers study consumers and evaluate how the product will serve their needs. They must also set guidelines for what a final product should look like, in accordance with the consumer market. Like the project manager, the product manager must also work with shareholders to describe their view of the ideal product.</p>
+    </div>
+  </body>
+</html>
