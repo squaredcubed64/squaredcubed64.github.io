@@ -1,3 +1,31 @@
 .page__hero--overlay {
   min-height: 65vh;
 }
+
+.feature__wrapper {
+  border-bottom: none;
+}
+
+.feature__item {
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.feature__item img {
+  height: 20vh;
+  object-fit: cover;
+}
+
+.feature__item .btn {
+  background-color: gray;
+  color: white;
+}
+
+.feature__item .btn {
+  background-color: gray;
+  color: white;
+
+  &:hover {
+    background-color: darken(gray, 10%);
+  }
+}
