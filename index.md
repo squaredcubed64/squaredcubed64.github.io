@@ -13,7 +13,7 @@ feature_row:
 - image_path: assets\images\maximalfocus-VT4rx775FT4-unsplash.jpg
   alt: "Resume image"
   title: "Resume"
-  url: "resume/index.html"
+  url: "resume"
   btn_label: "See my resume"
   btn_class: "btn--inverse"
 ---
